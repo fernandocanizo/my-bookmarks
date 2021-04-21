@@ -1,5 +1,15 @@
 # Inciensos
 
+- www.jimmyindia.cl
+
+Tras comprar en _Ambiente-y-Aromas_ me llegó una factura de esta otra compañía.
+Fui al sitio y tienen precios levemente más baratos. No sé si será una segunda
+fachada de la misma empresa o dos empresas distintas que trabajan juntas.
+
+Dirección: Salvador Sanfuentes 2733, Santiago.
+Dirección Sucursal: Juana Weber de Amunategui 4864, Estación Central, Santiago.
+=> esta es la dirección de _Ambiente-y-Aromas_!
+
 - https://www.ambienteyaromas.cl/ 2021.04.20
 
 Buenos precios casi mayoristas (ej. Satya x 12 cajas variadas a $7.500). Envío
