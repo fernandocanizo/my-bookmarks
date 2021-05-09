@@ -1,0 +1,28 @@
+{
+  "name": "my-bookmarks",
+  "version": "1.0.0",
+  "description": "A collection of bookmarks",
+  "main": "README.md",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "markdown-link-check": "^3.8.7"
+  },
+  "scripts": {
+    "test": "find -type f -iname '*.md' ! -path './node_modules/*' | xargs -L1 npx markdown-link-check --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocanizo/my-bookmarks.git"
+  },
+  "keywords": [
+    "flc",
+    "bookmarks"
+  ],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com> (https://github.com/fernandocanizo/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocanizo/my-bookmarks/issues"
+  },
+  "homepage": "https://github.com/fernandocanizo/my-bookmarks#readme"
+}
