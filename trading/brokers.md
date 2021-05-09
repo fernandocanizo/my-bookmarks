@@ -2,11 +2,11 @@
 
 - 2020.06.02 [Ameritrade](https://www.tdameritrade.com/)
 
-Primer lugar en el análisis del 2020 de [Stock Brokers](stockbrokers.com)
+Primer lugar en el análisis del 2020 de [Stock
+Brokers](https://www.stockbrokers.com/)
 
 - 2020.06.02 [Interactive Brokers](https://www.interactivebrokers.com/)
 
-Recomendado también en el análisis del 2020 de [Stock Brokers](stockbrokers.com)
 
 
 ## Scam?
@@ -26,3 +26,5 @@ por otra compañía que justifique su desaparición.
 
 Lo extraño es que su software siga funcionando y Daniel Tirado aún lo pueda
 usar.
+Recomendado también en el análisis del 2020 de [Stock
+Brokers](https://www.stockbrokers.com/)
