@@ -14,3 +14,9 @@ https://www.youtube.com/watch?v=hE86S5Sv_WU
 
 Dato
 https://www.youtube.com/watch?v=ArOrAi2CtGs
+
+## Internet satelital
+
+Si me voy a un lugar alejado, entonces además de los posibles oferentes locales,
+considerar esto de una de las empresas de Elon Musk (creo):
+- [StarLink](https://www.starlink.com/)
