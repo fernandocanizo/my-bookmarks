@@ -11,4 +11,10 @@ Take a whirlwind tour of your next favorite language. Community-driven!
   educational content to help guide the developers in picking up the path and
   guide their learnings.
 
+  Site is a little bit green, still needs to fill their links, but's a nice
+  idea.
 
+## Certification
+
+- [The Linux Foundation](https://training.linuxfoundation.org/)
+ Training and certification on several fronts, not just DevOps.
