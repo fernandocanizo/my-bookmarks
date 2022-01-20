@@ -3,10 +3,8 @@
   "version": "1.0.0",
   "description": "A collection of bookmarks",
   "main": "README.md",
-  "dependencies": {
-  },
   "devDependencies": {
-    "markdown-link-check": "^3.8.7"
+    "markdown-link-check": "^3.9.0"
   },
   "scripts": {
     "test": "find -type f -iname '*.md' ! -path './node_modules/*' | xargs -L1 npx markdown-link-check --quiet"
