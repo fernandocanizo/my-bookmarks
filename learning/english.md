@@ -21,6 +21,9 @@
 
 - [Linguee](https://www.linguee.com/)
 
+- [DeepL](https://www.deepl.com/translator)
+  Machine learning translator. It claims to be better than Google.
+
 - [SpanishDict](https://www.spanishdict.com/)---
   Doesn't like adblockers or Brave, so is not so good if you don't allow ads.
   Also is thought as a site to learn Spanish, not English.
