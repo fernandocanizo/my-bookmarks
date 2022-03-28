@@ -28,6 +28,10 @@
   Doesn't like adblockers or Brave, so is not so good if you don't allow ads.
   Also is thought as a site to learn Spanish, not English.
 
+## Special
+
+- [Irregular
+  verbs](https://www.englishclub.com/vocabulary/irregular-verbs-list.htm)
 
 ## Listening & Speaking
 
