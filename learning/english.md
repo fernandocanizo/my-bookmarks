@@ -30,6 +30,9 @@
 
 ## Special
 
+- [The Conjugator](https://www.theconjugator.com/en-index.php)
+  Give it a verb and it returns you all possible conjugations.
+
 - [Irregular
   verbs](https://www.englishclub.com/vocabulary/irregular-verbs-list.htm)
 
