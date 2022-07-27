@@ -78,3 +78,11 @@
   de 124 episodios, y se agrega un nuevo episodio cada martes.
 
 
+## Exercising
+
+- [Test English](https://test-english.com/grammar-points/)
+
+
+## People and courses
+
+- [English with Lucy](https://englishwithlucy.co.uk/)
