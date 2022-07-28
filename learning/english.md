@@ -16,6 +16,7 @@
 - [Ozdic](https://ozdic.com/)
   Collocations: common word combinations and usage.
 
+- [Free Dictionary - Idioms and Phrases](https://idioms.thefreedictionary.com/)
 
 ## Translation
 
