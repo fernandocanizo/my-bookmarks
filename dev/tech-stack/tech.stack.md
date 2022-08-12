@@ -54,6 +54,8 @@ style rules disabled.
 
 ## Libraries
 
+- [*ts-belt*](https://mobily.github.io/ts-belt/docs/)
+
 - [Ramda](https://ramdajs.com/)
 
 > A library designed specifically for a functional programming style, one that
@@ -142,3 +144,8 @@ never tried them**
 - [Frisby.js](https://docs.frisbyjs.com/)
 
 > The Easiest REST API Testing Framework Out There.
+
+
+## Language
+
+- [*ReScript*](https://rescript-lang.org/)
