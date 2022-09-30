@@ -13,3 +13,8 @@
   coding exercises.
 
   Haven't tried it yet.
+
+- [Techio](https://tech.io/)
+  A community driven platform to share knowledge. CodinGame uses this platform to pull in exercises.
+
+  Haven't tried it yet.
