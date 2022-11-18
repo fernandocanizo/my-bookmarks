@@ -5,6 +5,12 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 - [Scott Wlaschin](https://fsharpforfunandprofit.com/)
   Functional programming.
 
+  Also:
+    - [Professional site](http://scottwlaschin.com/)
+    - [Github](https://github.com/swlaschin)
+    - [boustrophedonic](http://boustrophedonic.com/)
+      Thoughts on software and architecture
+
 - [James Sinclair](https://jrsinclair.com/)
   Functional programming under Javascript.
 
