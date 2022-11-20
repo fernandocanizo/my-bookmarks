@@ -20,3 +20,5 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 - [Andrea Giamarchi](https://webreflection.co.uk/) personal site. On [Andrea on Medium](https://webreflection.medium.com/)
   HyperHTML and other cool stuff.
 
+- [Douglas Crockford](https://www.crockford.com/)
+  My guide, I should have put him first.
