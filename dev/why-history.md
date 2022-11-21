@@ -8,3 +8,5 @@
 
 - [Stop using Knex.js](https://gajus.medium.com/stop-using-knex-js-and-earn-30-bf410349856c)
   by [Gajys Kuizinas](https://twitter.com/kuizinas), the creator of [Slonik](https://github.com/gajus/slonik)
+
+- [Deno moves out of Typescript - 2020-06-09](https://startfunction.com/2020/06/09/deno-will-stop-using-typescript/)
