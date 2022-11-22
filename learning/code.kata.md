@@ -1,5 +1,8 @@
 # Coding Katas and Alike
 
+- [HackerRank](https://www.hackerrank.com/)
+  My main site for praticing coding.
+
 - [Exercism](https://exercism.org)
   Not only code exercises, but also mentoring. Actual people checking your code
   and telling ways to improve.
@@ -18,3 +21,15 @@
   A community driven platform to share knowledge. CodinGame uses this platform to pull in exercises.
 
   Haven't tried it yet.
+
+- [CodeChef](https://www.codechef.com/)
+  Katas and contests.
+
+  Haven't tried it yet.
+
+- [SPOJ](https://www.spoj.com/)
+
+  Katas and contests.
+
+  Haven't tried it yet.
+
