@@ -87,3 +87,12 @@
 ## People and courses
 
 - [English with Lucy](https://englishwithlucy.co.uk/)
+
+
+## Certifications and tests
+
+- [EF Set](https://efset.org/)
+
+  Does reading, listening and speaking tests.
+
+- [Brittish Council](https://britishcouncil.org/)
