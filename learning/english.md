@@ -93,6 +93,6 @@
 
 - [EF Set](https://efset.org/)
 
-  Does reading, listening and speaking tests.
+  Does reading, listening and speaking tests. They provide a [free certificate](https://www.efset.org/ef-set-50/) that I can add to my CV.
 
 - [Brittish Council](https://britishcouncil.org/)
