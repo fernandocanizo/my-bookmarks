@@ -21,6 +21,19 @@
 
 - [HackerRank Profile](https://www.hackerrank.com/FernandoCanizo)
 
+- [CodingGame Profile](https://www.codingame.com/profile/60f9b0bca179f951e750f5e4a7b6d0c4214716)
+
+- [Exercism Profile](https://exercism.org/profiles/intro)
+
+- [CodeWars Profile](https://www.codewars.com/users/FernandoCanizo)
+
+- [CodeFigths Profile](https://app.codesignal.com/profile/flc)
+
+
+## Learning
+
+- [Brilliant Profile](https://brilliant.org/profile/fernando-6e2pe4/)
+
 
 ## Old stuff
 
