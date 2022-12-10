@@ -14,7 +14,3 @@
   installation. I did `npm i -g gitinspector`. But then I installed distribution
   (Arch) package and worked perfectly.
 
-- [MemLab](https://facebook.github.io/memlab/)
-  Analyzes JavaScript heap and finds memory leaks in browser and node.js
-
-  **Didn't try yet**
