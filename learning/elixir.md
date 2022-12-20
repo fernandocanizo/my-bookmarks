@@ -12,3 +12,12 @@
 
 - [Elixir Book Club](https://elixirbookclub.com/)
   They have a Discord channel, already joined it.
+
+- [Learn Elixir TV](https://www.learnelixir.tv/)
+
+- [Learn Phoenix TV](https://www.learnphoenix.tv/)
+
+- [Learn Elixir Course](https://learn-elixir.dev/)
+  Course last 12 weeks and is paid. Very expensive: USD $6.000
+
+- [Elixi Course](https://github.com/taxfix/elixir-course)
