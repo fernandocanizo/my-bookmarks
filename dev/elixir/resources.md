@@ -1,5 +1,9 @@
 # Elixir Resources
 
+## Forums and chats
+
+- [Elixir Forum](https://elixirforum.com/)
+
 ## News
 
 - [Elixir Status](https://elixirstatus.com/)
