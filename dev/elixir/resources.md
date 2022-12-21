@@ -4,6 +4,14 @@
 
 - [Elixir Forum](https://elixirforum.com/)
 
+- [BeamRec Forum](https://www.beamrec.com/forum)
+  BeamRec is a recruiter site that also has this forum.
+
+## People
+
+- [Mitchell Hanberg](https://www.mitchellhanberg.com/)
+
+
 ## News
 
 - [Elixir Status](https://elixirstatus.com/)
