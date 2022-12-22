@@ -24,6 +24,13 @@
 
 - [Empex](https://www.empex.co/)
 
+## Contests
+
+- [SpawnFest](https://spawnfest.org/)
+  It has a list of suggested projects that can serve not only to participate on
+  the contests, but also could be a good source of ideas for demo projects, for
+  an Elixir book with projects, or just for resume purposes.
+
 ## Frameworks and libraries
 
 - [Phoenix Framework](https://www.phoenixframework.org/)
