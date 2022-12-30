@@ -26,3 +26,5 @@
 
 - [Grox](https://grox.io/)
   Paid, but has some free resources.
+
+- [Elixir Tips](https://elixirstream.dev/tips)
