@@ -13,5 +13,7 @@ programming language or technology.
   Ofrece 16 lecciones gratuitas para que uno se forme una opinión, por eso ví
   sólo Javascript/Typescript. Pero parece que tiene muchos más.
 
-  #39/m
+  $39/m
 
+- [Google Courses](https://learndigital.withgoogle.com/digitalgarage/)
+  Free or at least you can find some free.
