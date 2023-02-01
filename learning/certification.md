@@ -4,6 +4,8 @@ Learning platforms, universities and companies that offer free certifications.
 
 Starting point [post](https://www.freecodecamp.org/news/free-certificates/)
 
+[Massive list](https://www.classcentral.com/report/free-certificates/)
+
 ## FreeCodeCamp
 
 - [Responsive web design](https://www.classcentral.com/course/freecodecamp-responsive-web-design-34059)
