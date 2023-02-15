@@ -28,3 +28,6 @@
   Paid, but has some free resources.
 
 - [Elixir Tips](https://elixirstream.dev/tips)
+
+- [Dockyard Academy](https://academy.dockyard.com/)
+  by Brooklin Myers, el loco del podcast "Elixir Newbie"
