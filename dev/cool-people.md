@@ -22,3 +22,7 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 
 - [Douglas Crockford](https://www.crockford.com/)
   My guide, I should have put him first.
+
+- [Mark Mahoney](https://github.com/markm208/)
+  Creator of [StoryTeller](https://github.com/markm208/storyteller) an app to
+  make code walk-throughs. Check his [several tutorials](https://markm208.github.io/)

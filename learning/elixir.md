@@ -31,3 +31,6 @@
 
 - [Dockyard Academy](https://academy.dockyard.com/)
   by Brooklin Myers, el loco del podcast "Elixir Newbie"
+
+- [An Animated Introduction to Elixir](https://markm208.github.io/exbook/)
+  By Mark Mahoney
