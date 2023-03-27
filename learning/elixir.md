@@ -34,3 +34,7 @@
 
 - [An Animated Introduction to Elixir](https://markm208.github.io/exbook/)
   By Mark Mahoney
+
+- [Mastering the Art of Programming in
+  Elixir](https://www.educative.io/courses/mastering-programming-elixir)
+  Paid
