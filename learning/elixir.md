@@ -1,5 +1,8 @@
 # Learning Elixir
 
+- [Alexander Zeitler post on learning
+  resources](https://alexanderzeitler.com/articles/learning-elixir/)
+
 - [Getting Started](https://elixir-lang.org/getting-started/introduction.html)
 
 - [Unofficial Elixir Documentation](https://elixir-lang.readthedocs.io/)
