@@ -1,5 +1,7 @@
 # Learning Elixir
 
+## Free
+
 - [Alexander Zeitler post on learning
   resources](https://alexanderzeitler.com/articles/learning-elixir/)
 
@@ -22,13 +24,7 @@
 
 - [Learn Phoenix TV](https://www.learnphoenix.tv/)
 
-- [Learn Elixir Course](https://learn-elixir.dev/)
-  Course last 12 weeks and is paid. Very expensive: USD $6.000
-
 - [Elixir Course](https://github.com/taxfix/elixir-course)
-
-- [Grox](https://grox.io/)
-  Paid, but has some free resources.
 
 - [Elixir Tips](https://elixirstream.dev/tips)
 
@@ -38,6 +34,20 @@
 - [An Animated Introduction to Elixir](https://markm208.github.io/exbook/)
   By Mark Mahoney
 
+## Paid
+
+- [Grox](https://grox.io/)
+  Paid, but has some free resources.
+
 - [Mastering the Art of Programming in
   Elixir](https://www.educative.io/courses/mastering-programming-elixir)
-  Paid
+
+- [Pragmatic Studio's Phoenix+Liveview course](https://pragmaticstudio.com/courses/phoenix-liveview)
+  Paid, but has some free resources.
+
+- [Pragmatic Studio's Elixir+OTP course](https://pragmaticstudio.com/elixir)
+  Paid, but has some free resources.
+
+- [Learn Elixir Course](https://learn-elixir.dev/)
+  Course last 12 weeks and is paid. Very expensive: USD $6.000
+
