@@ -12,3 +12,6 @@ the formatting capabilities.
 While it seems to have many integrations and cool stuff, I didn't find it
 useful for my current tasks.
 
+- [There's an AI for that](https://theresanaiforthat.com/)
+
+To search for AI services.
