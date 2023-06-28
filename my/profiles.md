@@ -14,7 +14,7 @@
 
 - [StackOverflow Profile](https://stackoverflow.com/users/978452/flc)
 
-- [Personal Site](https://fernandocanizo.dev/)
+- [Personal Site](https://fernandocanizo.dev/) (about to die soon - 2023)
 
 
 ## Coding Practice
@@ -39,7 +39,7 @@
 
 - [Old Freelancer Profile](https://www.freelancer.com/u/FernandoCanizo)
 
-- [Old freelancer period demos](http://demos.muriandre.com/)
+- [Old freelancer period demos](http://demos.muriandre.com/) (about to die soon - 2023)
 
 
 ## Personal (social media)
