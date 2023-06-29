@@ -51,3 +51,7 @@
 - [Learn Elixir Course](https://learn-elixir.dev/)
   Course last 12 weeks and is paid. Very expensive: USD $6.000
 
+
+## Phoenix & Liveview
+
+- [The Lazy Programmer's Intro to LiveView: Chapter 1](https://dev.to/lubien/the-lazy-programmers-intro-to-liveview-chapter-1-1487)
