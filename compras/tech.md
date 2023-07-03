@@ -26,3 +26,10 @@ https://www.youtube.com/watch?v=ArOrAi2CtGs
 Si me voy a un lugar alejado, entonces además de los posibles oferentes locales,
 considerar esto de una de las empresas de Elon Musk (creo):
 - [StarLink](https://www.starlink.com/)
+
+
+## Productivity
+
+- [ReMarkable](https://remarkable.com/)
+  _The paper tablet_
+  Only USD $279!
