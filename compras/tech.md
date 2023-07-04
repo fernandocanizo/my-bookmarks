@@ -33,3 +33,12 @@ considerar esto de una de las empresas de Elon Musk (creo):
 - [ReMarkable](https://remarkable.com/)
   _The paper tablet_
   Only USD $279!
+
+## Auriculares
+
+- [Corsair Virtuoso RGB](https://www.amazon.com/-/es/Corsair-Virtuoso-RGB-inal%C3%A1mbricos-viscoel%C3%A1stica/dp/B07VTGSC3B)
+  Auriculares de gaming inalámbricos, sonido envolvente de alta fidelidad 7.1
+  con micrófono de calidad de transmisión, almohadillas de espuma
+  viscoelástica, pila con 20 horas de duración.
+
+  2023-07-03 USD $200 (didn't do a thorough search)
