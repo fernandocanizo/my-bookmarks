@@ -9,3 +9,6 @@
 
 - [Annas](https://annas-archive.org/)
   Mirror for Z Library and other sources.
+
+- [Site Reliability Engineering - by Google](https://sre.google/sre-book/table-of-contents/)
+  Libro recomendado por @PeladoNerd
