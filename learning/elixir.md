@@ -2,6 +2,9 @@
 
 ## Free
 
+- [TutorialsPoint](https://www.tutorialspoint.com/elixir/)
+  Very cool tutorial.
+
 - [Alexander Zeitler post on learning
   resources](https://alexanderzeitler.com/articles/learning-elixir/)
 

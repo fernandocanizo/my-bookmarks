@@ -1,5 +1,11 @@
 # Elixir Resources
 
+## References
+
+- [Elixir on HexDocs](https://hexdocs.pm/elixir/)
+
+- [Erlang](https://www.erlang.org/doc/man_index.html)
+
 ## Forums and chats
 
 - [Elixir Forum](https://elixirforum.com/)
