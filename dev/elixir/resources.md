@@ -44,3 +44,7 @@
 ## Support and coaching for start-ups
 
 - [Dashbit](https://dashbit.co/)
+
+## Security
+
+- `mix sobelow` static code analyzer for possible insecurities on your code.
