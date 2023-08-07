@@ -40,7 +40,7 @@
 ## Paid
 
 - [Grox](https://grox.io/)
-  Paid, but has some free resources.
+  Paid, but has some free resources. By Bruce Tate, which has written several books on Elixir. Also check their YouTube channel: [Groxio](https://www.youtube.com/@Groxio)
 
 - [Mastering the Art of Programming in
   Elixir](https://www.educative.io/courses/mastering-programming-elixir)
