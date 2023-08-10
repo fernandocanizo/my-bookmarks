@@ -10,3 +10,5 @@
   by [Gajys Kuizinas](https://twitter.com/kuizinas), the creator of [Slonik](https://github.com/gajus/slonik)
 
 - [Deno moves out of Typescript - 2020-06-09](https://startfunction.com/2020/06/09/deno-will-stop-using-typescript/)
+
+- 2023-08-10 [Why Tailwind is not a good choice](https://pdx.su/blog/2023-07-26-tailwind-and-the-death-of-craftsmanship/)
