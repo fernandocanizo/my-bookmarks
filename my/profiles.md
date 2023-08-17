@@ -52,3 +52,12 @@
 
 - [GoodReads Profile](https://www.goodreads.com/user/show/63375606-fernando-canizo)
 
+## Killer Website: all your stuff in one place
+
+I already had something going under GitHub, but this is a project aimed at being the central way to present yourself to the world. Maybe it catches on.
+
+[LinkFree](https://linkfree.io/)
+
+[LinkFree repo](https://github.com/EddieHubCommunity/LinkFree)
+
+**UPDATE:** I just tried it and doesn't seem to me this will take off. So I'm saving this just for historical purposes.
