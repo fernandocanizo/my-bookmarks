@@ -14,3 +14,5 @@
   Algorithms and data structures implemented in JavaScript with explanations and
   links to further readings
 
+- [Vanilla Javascript](https://frontendmasters.com/courses/vanilla-js-apps/)
+  A course focused on vanilla JS.
