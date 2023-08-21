@@ -2,6 +2,10 @@
 
 - [LinkedIn Profile](https://www.linkedin.com/in/fernando-canizo/)
 
+- [GetOnBoard Profile](https://www.getonbrd.com/p/fernando-l-canizo)
+- [GetOnBoard Profile](https://www.getonbrd.com/p/fernando-canizo)
+  Quité la "L" de mi nombre para que cambiara el enlace público, sin embargo el enlace con L sigue estando, pero ambos apuntan al mismo perfil.
+
 - [British Council Certificate: CEFR C1](https://api2.englishscore.com/verify/4456a02f)
 
 - [GitHub Profile](https://github.com/fernandocanizo/)
