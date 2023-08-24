@@ -6,8 +6,6 @@
 - [GetOnBoard Profile](https://www.getonbrd.com/p/fernando-canizo)
   Quité la "L" de mi nombre para que cambiara el enlace público, sin embargo el enlace con L sigue estando, pero ambos apuntan al mismo perfil.
 
-- [British Council Certificate: CEFR C1](https://api2.englishscore.com/verify/4456a02f)
-
 - [GitHub Profile](https://github.com/fernandocanizo/)
 
 - [Automatic GitHub Resume](https://resume.github.io/?fernandocanizo)
@@ -20,6 +18,11 @@
 
 - [Personal Site](https://fernandocanizo.dev/) (about to die soon - 2023)
 
+## English certifications
+
+- 2022-02-01 [British Council Certificate: CEFR C1](https://api2.englishscore.com/verify/4456a02f)
+
+- 2023-08-23 [EF SET Certificate: CEFR C2](https://www.efset.org/cert/FCykGU)
 
 ## Coding Practice
 
