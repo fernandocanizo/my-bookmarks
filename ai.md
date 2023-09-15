@@ -19,3 +19,7 @@ To search for AI services.
 - [v0 by @Vercel](https://v0.dev/)
 
 Generate React code with AI. I guess it's a tunned AI, so it's worth a try.
+
+- [Nougat](https://facebookresearch.github.io/nougat/)
+
+An open-source OCR model that accurately scans books with heavy math/scientific notations. Ages ahead of other open OCR options.
