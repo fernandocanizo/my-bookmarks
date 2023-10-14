@@ -8,6 +8,14 @@
 
 - [React Tutorial: An Overview and Walkthrough](https://www.taniarascia.com/getting-started-with-react/)
 
+## Remix
+
+- [Remix](https://remix.run/)
+
+- [Remix Guides](https://remix.guide/)
+
+- [Remix examples](https://github.com/remix-run/examples)
+
 ## Videos
 
 - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
