@@ -16,3 +16,5 @@
 
   **Didn't try yet**
 
+- [PubLint](https://publint.dev/)
+  Checks if a package has been published right.
