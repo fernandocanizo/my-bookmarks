@@ -8,3 +8,7 @@
 ## Documentation
 
 - [CodeHike](https://github.com/code-hike/codehike)
+
+## JWT
+
+- [JWT decoding](https://jwt.io/)
