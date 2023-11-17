@@ -1,7 +1,7 @@
 # Sites for learning
 
 In a different section because they have resources for more than one
-programming language or technology.
+programming language or technology... Or even non-technical subjects.
 
 - [Boot.dev](https://boot.dev/)
   Cursos con proyectos que al terminar quedás con portafolio armado.
@@ -17,3 +17,6 @@ programming language or technology.
 
 - [Google Courses](https://learndigital.withgoogle.com/digitalgarage/)
   Free or at least you can find some free.
+
+- [ZeroToMaster](https://zerotomastery.io/)
+  Propose a single monthly payment to access any course in the platform.
