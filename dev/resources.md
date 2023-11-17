@@ -49,7 +49,7 @@
 - [Flowbite Icons](https://flowbite.com/icons/)
   Paid resource but has some open-sourced. Provides SVG code.
 
-## Fake data
+## Data & Fake data
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
   JSONPlaceholder comes with a set of 6 common resources:
@@ -63,3 +63,5 @@
 
   Also, resources have relations.
 
+- [Star Wars API](https://swapi.dev/)
+  Tons of data about Star Wars universe.
