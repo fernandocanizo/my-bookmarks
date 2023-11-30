@@ -12,3 +12,7 @@
 ## JWT
 
 - [JWT decoding](https://jwt.io/)
+
+## Performance
+
+- [PageSpeed](https://pagespeed.web.dev/)
