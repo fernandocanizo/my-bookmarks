@@ -9,3 +9,5 @@
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
 - [Tailwind Resources](https://www.tailwindresources.com/)
+
+- [Github Topic: Tailwind Theme](https://github.com/topics/tailwind-theme)
