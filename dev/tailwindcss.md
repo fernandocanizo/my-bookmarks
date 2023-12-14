@@ -11,3 +11,7 @@
 - [Tailwind Resources](https://www.tailwindresources.com/)
 
 - [Github Topic: Tailwind Theme](https://github.com/topics/tailwind-theme)
+
+- [Tailwind Components](https://tailwindcomponents.com/)
+  > A free repository for community components using Tailwind CSS.
+  > Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites!
