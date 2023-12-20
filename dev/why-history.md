@@ -19,3 +19,6 @@
   TL;DR: It's a need because the shared namespace between functions and variables, not a bad design decision.
 
 - 2023-08-15 [From serverless to Elixir](https://medium.com/coryodaniel/from-erverless-to-elixir-48752db4d7bc)
+
+- 2023-12-20 [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
+  by Kent C. Dodds
