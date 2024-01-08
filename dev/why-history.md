@@ -22,3 +22,8 @@
 
 - 2023-12-20 [Fully Typed Web Apps](https://www.epicweb.dev/fully-typed-web-apps)
   by Kent C. Dodds
+
+- 2024-01-08 [Weird things engineers believe about Web development](https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/)
+  by Brian Birtles
+
+  > ...in their day jobs browser engineers are not fighting webpack, not trying to understand full-page TypeScript errors (they’ve got C++ template errors to fill that hole in their lives), not trying to get Safari on iOS to behave like other browsers, not struggling with CSS at scale, not trying to evaluate if the latest SSR/SSG/island framework is worth investing in, not refactoring massive JS codebases for more optimal chunking, not filing exasperated issues on GitHub because the latest version of one of their dependencies broke their app, not trying to get all their tools to agree on ESM vs CJS, and not losing sleep over whether or not they chose the right state management approach or if they should rewrite the entire thing for the tenth time over.
