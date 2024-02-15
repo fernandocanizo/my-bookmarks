@@ -16,3 +16,8 @@
 ## Performance
 
 - [PageSpeed](https://pagespeed.web.dev/)
+
+## Testing
+
+- [Replay.io](https://www.replay.io/)
+  Replay is the only browser that lets you record and retroactively debug your application. Fix the hardest issues as a team and take control of your support process and test suite.
