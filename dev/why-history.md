@@ -35,3 +35,6 @@ The date at the beginning of some links is the date I found them, not the date t
 
 - 2024-02-15 [ESM Modernization Lessons](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
   A thorough walk by Mark Erikson about his experience on properly switching to ESM and maintaining backwards compatibility as a package maintainer.
+
+- 2023-01-15 [CommonJS is Hurting Javascript](https://deno.com/blog/commonjs-is-hurting-javascript)
+  An article on module system history for Javascript and why we need to ditch CJS.
