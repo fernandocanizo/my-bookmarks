@@ -1,5 +1,7 @@
 # Why / History
 
+The date at the beginning of some links is the date I found them, not the date they may have been written/published.
+
 - [This is a motherfucking website](https://motherfuckingwebsite.com/)
 
 - [Stop Validating Email Addresses](https://davidcel.is/posts/stop-validating-email-addresses-with-regex/)
@@ -30,3 +32,6 @@
 
 - 2024-01-26 [Analysis of the deprecation of WebSQL](https://nolanlawson.com/2014/04/26/web-sql-database-in-memoriam/)
   **TL;DR:** WebSQL is great, mobile developers don't care about IndexDB and PouchDB is the jQuery of databases in the browser.
+
+- 2024-02-15 [ESM Modernization Lessons](https://blog.isquaredsoftware.com/2023/08/esm-modernization-lessons/)
+  A thorough walk by Mark Erikson about his experience on properly switching to ESM and maintaining backwards compatibility as a package maintainer.
