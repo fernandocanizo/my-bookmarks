@@ -16,3 +16,8 @@
 
 - [Vanilla Javascript](https://frontendmasters.com/courses/vanilla-js-apps/)
   A course focused on vanilla JS.
+
+  ## Free Books
+
+- [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)
+  by Dr. Axel Rauschmayer
