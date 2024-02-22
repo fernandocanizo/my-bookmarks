@@ -21,3 +21,11 @@
 
 - [Replay.io](https://www.replay.io/)
   Replay is the only browser that lets you record and retroactively debug your application. Fix the hardest issues as a team and take control of your support process and test suite.
+
+## Git
+
+- [GitButler](https://gitbutler.com/)
+  Made by one of the creators of GitHub.
+
+  > Git Branching, Refined
+  > A Git client for simultaneous branches on top of your existing workflow.
