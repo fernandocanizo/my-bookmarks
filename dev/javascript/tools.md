@@ -8,6 +8,11 @@
 
   List of language features and its support on different Nodejs versions.
 
+- [Socket](https://socket.dev/)
+  > Detect and block software supply chain attacks
+  > Socket is not a traditional vulnerability scanner. Socket proactively detects and blocks 70+ signals of supply chain risk in open source code, for comprehensive protection.
+
+  Tells you if a package contains vulnerabilities by analyzing it's whole dependency tree.
 
 ## Code Quality
 
