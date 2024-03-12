@@ -17,6 +17,9 @@
 
 - [PageSpeed](https://pagespeed.web.dev/)
 
+- [SpeedScope](https://www.speedscope.app/)
+  Analyzes a performance profile you generate from your code.
+
 ## Testing
 
 - [Replay.io](https://www.replay.io/)
