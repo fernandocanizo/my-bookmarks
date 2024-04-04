@@ -8,6 +8,7 @@
 - [NeoLand](https://neoland.dev/)
   Plugin search
 
+- [dotfyle](https://dotfyle.com/)
 
 ## Communities
 
