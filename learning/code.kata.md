@@ -36,3 +36,7 @@
 
   Haven't tried it yet.
 
+## Data Science Training
+
+- [DataWars](https://www.datawars.io/)
+  Practice Data Science with Real Life Projects
