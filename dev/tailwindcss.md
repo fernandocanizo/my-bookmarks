@@ -15,3 +15,6 @@
 - [Tailwind Components](https://tailwindcomponents.com/)
   > A free repository for community components using Tailwind CSS.
   > Open source Tailwind UI components and templates to bootstrap your new apps, projects or landing sites!
+
+- [Free Frontend](https://freefrontend.com/tailwind-code-examples/)
+  Snippets, code samples
