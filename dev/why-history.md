@@ -38,3 +38,17 @@ The date at the beginning of some links is the date I found them, not the date t
 
 - 2023-01-15 [CommonJS is Hurting Javascript](https://deno.com/blog/commonjs-is-hurting-javascript)
   An article on module system history for Javascript and why we need to ditch CJS.
+
+- 2024-04-17 Don't release the Zalgo!
+  I know about this from several years now (probably around 8-9 years), but today it came out again on a peer code review and couldn't find relevant links on my old browser, so I'm adding several Zalgo-related links here now.
+
+  **TL;DR: If the callback must be deferred in any situation, always defer it.**
+
+  - [History of the reference](https://knowyourmeme.com/memes/zalgo)
+  - [Callbacks, synchronous and asynchronous](https://blog.ometer.com/2011/07/24/callbacks-synchronous-and-asynchronous/)
+    by [Havoc Pennington](https://ometer.com/about.html)
+  - [Designing APIs for asynchrony](https://blog.izs.me/2013/08/designing-apis-for-asynchrony/)
+    by Isaac Schlueter (one of the core developers on the NodeJS project)
+  - [What is unleashing Zalgo in the context of NodeJS?](https://progressivecoder.com/what-is-unleashing-zalgo-in-nodejs/)
+    by Saurabh Dashora on November 24, 2022
+    Provides a more clear and runnable example in Javascript.
