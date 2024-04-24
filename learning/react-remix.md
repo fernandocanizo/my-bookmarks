@@ -18,6 +18,9 @@
 
 - [Learn Remix](https://www.learnremix.io/)
 
+- [EpicWeb](https://www.epicweb.dev/)
+  A series of learning resources, some free, some paid, by Kent C. Dodds.
+
 ## Videos
 
 - [React JS Crash Course 2021](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
