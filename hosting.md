@@ -1,4 +1,4 @@
-# Hosting
+# Hosting & DNS Services
 
 ## Deploy {front,back}-end free (as in free beer)
 
@@ -9,3 +9,8 @@
 - [qoddi․com](https://qoddi․com/)
 - [netlify․com](https://netlify․com/)
 - [vercel․com](https://vercel․com/)
+
+## DNS
+
+- [Duck DNS](https://duckdns.org/)
+  To host things at home, with dynamic IPs.
