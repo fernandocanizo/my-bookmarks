@@ -1,4 +1,4 @@
-# Zig
+# Zig Language
 
 Knew the language on 2024-04-04 through an interview from @Developer Voices on YouTube.
 
