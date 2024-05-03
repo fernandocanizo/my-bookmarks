@@ -65,3 +65,5 @@
 
 - [Star Wars API](https://swapi.dev/)
   Tons of data about Star Wars universe.
+
+- [Cat Facts](https://catfact.ninja/)
