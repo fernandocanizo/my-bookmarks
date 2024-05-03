@@ -14,6 +14,12 @@
 
   Tells you if a package contains vulnerabilities by analyzing it's whole dependency tree.
 
+## Registries
+
+- [npmjs](https://www.npmjs.com/)
+- [npms](https://npms.io/)
+- [jsr](https://jsr.io/)
+
 ## Code Quality
 
 - [MemLab](https://facebook.github.io/memlab/)
