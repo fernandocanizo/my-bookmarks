@@ -43,6 +43,8 @@ There are component libraries that expose their components in a way that's easy 
 
 ## Themes
 
+- [Shadcn Themes](https://ui.shadcn.com/themes)
+
 - [jln dev](https://ui.jln.dev/)
   +10,000 themes for Shadcn/ui
 
