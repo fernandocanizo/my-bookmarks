@@ -18,3 +18,11 @@
 
 - [Free Frontend](https://freefrontend.com/tailwind-code-examples/)
   Snippets, code samples
+
+## C&P UI Components libraries
+
+There are component libraries that expose their components in a way that's easy to copy&paste without having to actually install the library.
+
+- [Mamba UI](https://mambaui.com/)
+- [Meraki UI](https://merakiui.com/)
+- [Flowbite UI](https://flowbite.com/)
