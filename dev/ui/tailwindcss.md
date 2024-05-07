@@ -31,6 +31,9 @@ There are component libraries that expose their components in a way that's easy 
 
 - [Flowbite UI](https://flowbite.com/)
 
+- [Aceternity](https://ui.aceternity.com/)
+  A **very** cool component library that doesn't provide basic stuff like others, but cool, elaborated components. Use it to give a touch of _wow!_ to your site.
+
 ### Accesible components
 
 - [JollyUI](https://jollyui.dev/)
