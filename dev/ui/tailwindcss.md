@@ -59,3 +59,5 @@ There are component libraries that expose their components in a way that's easy 
 
   Anyway, it provides access to several other libraries, installing directly the code in your repo instead of a package.
 
+- [Shadxn](https://ui.shadxn.com/)
+  On the same vein as Sly, based on Shadcn, but including other components libraries besides Shadcn
