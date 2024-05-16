@@ -52,3 +52,6 @@ The date at the beginning of some links is the date I found them, not the date t
   - [What is unleashing Zalgo in the context of NodeJS?](https://progressivecoder.com/what-is-unleashing-zalgo-in-nodejs/)
     by Saurabh Dashora on November 24, 2022
     Provides a more clear and runnable example in Javascript.
+
+- 2024-05-16 [Use svg sprite icons in React](https://www.jacobparis.com/content/svg-icons)
+  The best way to use icons is an svg spritesheet. Cram all your icons into a single svg image with `<symbol>`s and refer the symbol id to use them.
