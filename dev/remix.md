@@ -6,7 +6,9 @@
 
 - [RemixStarter](https://www.remixstarter.com/)
 
-## Articles
+## Articles and guides
 
 - On [hydration errors](https://www.jacobparis.com/content/remix-hydration-errors)
   by Jacob Paris
+
+- [Remix PWA: Practical A-Y Guide](https://shafspecs.hashnode.dev/remix-pwa-practical-guide)
