@@ -27,6 +27,9 @@
 - [Tailwind CSS color palette generator](https://tailcolor.com/)
   Instantly generate a ready to use color palette for your Tailwind project.
 
+- [Tint](https://www.tints.dev/)
+  Palette generator
+
 ## C&P UI Components libraries
 
 There are component libraries that expose their components in a way that's easy to copy&paste without having to actually install the library.
