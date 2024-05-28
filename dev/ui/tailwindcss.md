@@ -19,6 +19,9 @@
 - [Free Frontend](https://freefrontend.com/tailwind-code-examples/)
   Snippets, code samples
 
+- [Patterns](https://heropatterns.com/)
+  Cool patterns to use on backgrounds
+
 ## C&P UI Components libraries
 
 There are component libraries that expose their components in a way that's easy to copy&paste without having to actually install the library.
