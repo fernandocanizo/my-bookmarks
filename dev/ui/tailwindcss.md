@@ -6,6 +6,8 @@
 
 - [Tailwind UI](https://tailwindui.com/)
 
+- [Tailwind Playground](https://play.tailwindcss.com/)
+
 - [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
 
 - [Tailwind Resources](https://www.tailwindresources.com/)
