@@ -32,6 +32,8 @@
 - [Tint](https://www.tints.dev/)
   Palette generator
 
+- [Animation](https://www.tailwindcss-animated.com/configurator.html)
+
 ## C&P UI Components libraries
 
 There are component libraries that expose their components in a way that's easy to copy&paste without having to actually install the library.
