@@ -16,3 +16,9 @@
 
 - [Site Reliability Engineering - by Google](https://sre.google/sre-book/table-of-contents/)
   Libro recomendado por @PeladoNerd
+
+- [The Copenhagen Book](https://thecopenhagenbook.com/)
+  > ... provides a general guideline on implementing auth in web applications...
+  > It may be opinionated or incomplete at times but we hope this fills a certain void in online resources. We recommend using this alongside the [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+
+
