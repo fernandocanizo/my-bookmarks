@@ -2,6 +2,8 @@
 
 - [Modifiers Quick Reference](https://tailwindcss.com/docs/hover-focus-and-other-states#quick-reference)
 
+- [CheatSheet](https://tailwindcomponents.com/cheatsheet/)
+
 ## Resources
 
 - [Tailwind UI](https://tailwindui.com/)
