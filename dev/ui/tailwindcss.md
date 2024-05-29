@@ -26,12 +26,6 @@
 - [Patterns](https://heropatterns.com/)
   Cool patterns to use on backgrounds
 
-- [Tailwind CSS color palette generator](https://tailcolor.com/)
-  Instantly generate a ready to use color palette for your Tailwind project.
-
-- [Tint](https://www.tints.dev/)
-  Palette generator
-
 - [Animation](https://www.tailwindcss-animated.com/configurator.html)
 
 ## C&P UI Components libraries
@@ -65,6 +59,26 @@ There are component libraries that expose their components in a way that's easy 
 
 - [jln dev](https://ui.jln.dev/)
   +10,000 themes for Shadcn/ui
+
+## Colors
+
+- [Default Palette Cheatsheet](https://uicolors.app/browse/tailwind-colors)
+  In the `Browse` link shows basic default colors from Tailwind. But it can also be used as a theme generator based on a primary color. It offers several other cool services, but all of them paid.
+
+- [Palettte](https://palettte.app/)
+  Didn't tried, recommended in Tailwind docs.
+
+- [ColorBox](https://colorbox.io/)
+  Didn't tried, recommended in Tailwind docs.
+
+- [Tint](https://www.tints.dev/)
+  Palette generator
+
+- [Tailwind CSS color palette generator](https://tailcolor.com/)
+  Instantly generate a ready to use color palette for your Tailwind project.
+
+- [Tailwind Ink](https://tailwind.ink/)
+  Let's you select a primary color and builds (I think using AI) a full theme. I don't like it provides it as tailwind conf instead of CSS variables and also that it uses RGB sharp code instead of HSV. But it's pretty cool.
 
 ## Tools
 
