@@ -20,6 +20,12 @@
 - [npms](https://npms.io/)
 - [jsr](https://jsr.io/)
 
+### To help decide which package
+
+Not registries, but may help decide for a package when the other quality variables are even.
+
+- [npm trends](https://npmtrends.com/)
+
 ## Code Quality
 
 - [MemLab](https://facebook.github.io/memlab/)
