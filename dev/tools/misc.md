@@ -25,6 +25,11 @@
 - [Replay.io](https://www.replay.io/)
   Replay is the only browser that lets you record and retroactively debug your application. Fix the hardest issues as a team and take control of your support process and test suite.
 
+- [BrowserStack](https://www.browserstack.com/)
+  > App & Browser Testing
+  > Give your users a seamless experience by testing on 20,000+ real devices.
+  > Don't compromise with emulators and simulators.
+
 ## Git
 
 - [GitButler](https://gitbutler.com/)
