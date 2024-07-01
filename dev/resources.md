@@ -71,4 +71,7 @@
 - [Star Wars API](https://swapi.dev/)
   Tons of data about Star Wars universe.
 
-- [Cat Facts](https://catfact.ninja/)
+- [Cat Facts API](https://catfact.ninja/)
+
+- [Dog API](https://api.thedogapi.com/)
+  Returns a random dog image. Check the [documentation](https://docs.thedogapi.com/) on how to use it.
