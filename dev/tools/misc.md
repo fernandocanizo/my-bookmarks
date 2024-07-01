@@ -37,3 +37,8 @@
 
   > Git Branching, Refined
   > A Git client for simultaneous branches on top of your existing workflow.
+
+## Shared whiteboard
+
+- [ExcaliDraw](https://excalidraw.com/)
+  Open source whiteboard you can deploy yourself if you want. Or use that link above.
