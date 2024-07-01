@@ -81,3 +81,6 @@
 
 - [Open Weather API](https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY)
   Extensive weather information.
+
+- [CoinGecko API](https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd)
+  Cryptocurrency data, including prices and market capitalization. 
