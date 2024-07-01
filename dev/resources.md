@@ -78,3 +78,6 @@
 
 - [REST Countries API](https://restcountries.com/v3.1/all)
   Provides information about countries.
+
+- [Open Weather API](https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY)
+  Extensive weather information.
