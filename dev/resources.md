@@ -84,3 +84,6 @@
 
 - [CoinGecko API](https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd)
   Cryptocurrency data, including prices and market capitalization. 
+
+- [Joke API](https://v2.jokeapi.dev/joke/Any?type=single)
+  Random jokes in JSON format.
