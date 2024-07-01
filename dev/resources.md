@@ -87,3 +87,6 @@
 
 - [Joke API](https://v2.jokeapi.dev/joke/Any?type=single)
   Random jokes in JSON format.
+
+- [News API](https://newsapi.org/v2/top-headlines?country=us&apiKey=YOUR_API_KEY)
+  News from various sources.
