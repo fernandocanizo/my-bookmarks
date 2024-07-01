@@ -75,3 +75,6 @@
 
 - [Dog API](https://api.thedogapi.com/)
   Returns a random dog image. Check the [documentation](https://docs.thedogapi.com/) on how to use it.
+
+- [REST Countries API](https://restcountries.com/v3.1/all)
+  Provides information about countries.
