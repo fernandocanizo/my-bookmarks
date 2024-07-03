@@ -42,3 +42,13 @@
 
 - [ExcaliDraw](https://excalidraw.com/)
   Open source whiteboard you can deploy yourself if you want. Or use that link above.
+
+## API testing/running (aka Postman-like)
+
+Postman updated around 2023 and now it's a cloud app, so better let's have options.
+
+- [HTTPie](https://httpie.io/)
+  CLI tool
+
+- [Bruno](https://usebruno.com/)
+  Open source alternative to Postman.
