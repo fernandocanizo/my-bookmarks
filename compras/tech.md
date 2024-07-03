@@ -42,3 +42,8 @@ considerar esto de una de las empresas de Elon Musk (creo):
   viscoelástica, pila con 20 horas de duración.
 
   2023-07-03 USD $200 (didn't do a thorough search)
+
+## Anything (from their makers)
+
+- [Tindie](https://tindie.com/)
+  It seems indie makers now have their own place to sell stuff, cool! :)
