@@ -52,3 +52,7 @@ Postman updated around 2023 and now it's a cloud app, so better let's have optio
 
 - [Bruno](https://usebruno.com/)
   Open source alternative to Postman.
+
+## ID collision calculator
+
+- [Nano ID Collision Calculator](https://zelark.github.io/nano-id-cc/)
