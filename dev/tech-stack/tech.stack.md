@@ -93,6 +93,9 @@ style rules disabled.
 > generation without hiding SQL itself so your applications can use Postgres to
 > the fullest possible extent.
 
+- [TinyBase](https://tinybase.org/)
+- [ElectricSQL](https://electric-sql.com/)
+  Both local first database that automatically synchronize to a Postgresql on the cloud.
 
 ## Frontend
 
