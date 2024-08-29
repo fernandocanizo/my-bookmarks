@@ -56,3 +56,7 @@ Postman updated around 2023 and now it's a cloud app, so better let's have optio
 ## ID collision calculator
 
 - [Nano ID Collision Calculator](https://zelark.github.io/nano-id-cc/)
+
+## Javascript internals visualizer
+
+- [JavaScript Visualizer 9000](https://www.jsv9000.app/)
