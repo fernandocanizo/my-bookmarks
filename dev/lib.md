@@ -7,4 +7,5 @@
 
   Signals are effective in applications of any size, with ergonomics that speed up the development of small apps, and performance characteristics that ensure apps of any size are fast by default.
 
-
+- [Jotai](https://jotai.org/)
+  A replacement for `useState` and context in React. Claims to be simpler.
