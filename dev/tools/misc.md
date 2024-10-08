@@ -60,3 +60,12 @@ Postman updated around 2023 and now it's a cloud app, so better let's have optio
 ## Javascript internals visualizer
 
 - [JavaScript Visualizer 9000](https://www.jsv9000.app/)
+
+## Misc
+
+- [Val Town](https://www.val.town/)
+  Val Town is a social website to write and run code.
+
+  With Val Town you can:
+
+  Cron jobs, creating REST APIs, receiving and sending emails, storing data in SQLite, receiving webhooks, using modules from NPM, generating images and PDFs, scraping webpages, checking prices…
