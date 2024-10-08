@@ -55,3 +55,6 @@ The date at the beginning of some links is the date I found them, not the date t
 
 - 2024-05-16 [Use svg sprite icons in React](https://www.jacobparis.com/content/svg-icons)
   The best way to use icons is an svg spritesheet. Cram all your icons into a single svg image with `<symbol>`s and refer the symbol id to use them.
+
+- 2024-10-08 [On Remix default encoding for <Form> and `useEffect`](https://macwright.com/2024/05/28/remix-form-gripes)
+  Several arguments against `useEffect`.
