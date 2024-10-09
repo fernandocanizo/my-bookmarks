@@ -54,7 +54,7 @@
 - [Flowbite Icons](https://flowbite.com/icons/)
   Paid resource but has some open-sourced. Provides SVG code.
 
-## Data & Fake data
+## Data & Fake data & APIs
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
   JSONPlaceholder comes with a set of 6 common resources:
@@ -70,6 +70,9 @@
 
 - [Star Wars API](https://swapi.dev/)
   Tons of data about Star Wars universe.
+
+- [Hero API](https://superheroapi.com/)
+  Get all SuperHeroes and Villians data from all universes under a single API. Requires login in with a GitHub token.
 
 - [Cat Facts API](https://catfact.ninja/)
 
