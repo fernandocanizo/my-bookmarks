@@ -31,3 +31,6 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
   > In 2020, I helped build Config, a tool for hardware design and manufacturing. From 2017 to 2019, I was the first employee at Observable, doing everything from productionizing the website to designing the logo and making some cool notebooks. Before that, from 2009 to 2017, I helped build Mapbox, a company that makes mapping software. I played in a band that released three albums, rallied for open laws and succeeded, wrote code for understanding and interacting with statistics, sleep, the earth, open data, manners, music, and a bunch of other stuff.
 
   > For a while, I was involved in the d3 community and the OpenStreetMap community: I was a lead developer on the editor you probably use if you edit OpenStreetMap. I made geojson.io and Mapbox Studio, and helped with Mapbox GL JS and a lot of other stuff.
+
+- [Flavio Copes](https://flaviocopes.com/)
+  Talks about AHA stack: Astro / HTMX / Alpine.js
