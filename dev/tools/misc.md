@@ -69,3 +69,8 @@ Postman updated around 2023 and now it's a cloud app, so better let's have optio
   With Val Town you can:
 
   Cron jobs, creating REST APIs, receiving and sending emails, storing data in SQLite, receiving webhooks, using modules from NPM, generating images and PDFs, scraping webpages, checking prices…
+
+- [TIOBE index](https://www.tiobe.com/tiobe-index/)
+  > The TIOBE Programming Community index is **an indicator of the popularity of programming languages**. The index is **updated once a month**. The ratings are based on the number of skilled engineers world-wide, courses and third party vendors. Popular web sites Google, Amazon, Wikipedia, Bing and more than 20 others are used to calculate the ratings. It is important to note that the TIOBE index **is not about the best programming language or the language in which most lines of code have been written**.
+
+  > The index can be used to check whether your programming skills are still up to date or to make a strategic decision about what programming language should be adopted when starting to build a new software system. The definition of the TIOBE index can be found here.
