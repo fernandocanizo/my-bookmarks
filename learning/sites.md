@@ -20,3 +20,6 @@ programming language or technology... Or even non-technical subjects.
 
 - [ZeroToMaster](https://zerotomastery.io/)
   Propose a single monthly payment to access any course in the platform.
+
+- [FireShip](https://fireship.io/)
+  I think it's a gamified learning site.
