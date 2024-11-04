@@ -26,6 +26,8 @@ Not registries, but may help decide for a package when the other quality variabl
 
 - [npm trends](https://npmtrends.com/)
 
+- [npm compare](https://npm-compare.com/)
+
 ## Code Quality
 
 - [MemLab](https://facebook.github.io/memlab/)
