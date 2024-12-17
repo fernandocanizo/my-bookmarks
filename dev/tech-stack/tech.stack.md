@@ -51,6 +51,8 @@ style rules disabled.
 > Run linters against staged git files and don't let shit slip into your code
 > base.
 
+- [Biome](https://biomejs.dev/)
+  Format, lint, and more in a fraction of a second. 35x faster than Prettier.
 
 ## Libraries
 
