@@ -5,6 +5,11 @@
 - [Texttik](https://textik.com/)
 - [Asciiflow](https://asciiflow.com/)
 
+## Text Logos
+
+- [CoolText](https://cooltext.com/)
+  Pick a style and write your desired text to generate a cool logo.
+
 ## Documentation
 
 - [CodeHike](https://github.com/code-hike/codehike)
