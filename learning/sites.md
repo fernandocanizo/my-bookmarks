@@ -27,3 +27,6 @@ programming language or technology... Or even non-technical subjects.
 
 - [FireShip](https://fireship.io/)
   I think it's a gamified learning site.
+
+- [EggHead](https://egghead.io/)
+  Bite-Sized Screencasts for Web Developers that Hate Long Boring Videos.
