@@ -34,3 +34,6 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 
 - [Flavio Copes](https://flaviocopes.com/)
   Talks about AHA stack: Astro / HTMX / Alpine.js
+
+- [Gary Bernhardt](https://www.destroyallsoftware.com/)
+  The creator of [Execute Program](https://www.executeprogram.com/), a very cool learning site. This site also has many sections for learning stuff, the screencasts in particular seem to be very hands on.
