@@ -39,4 +39,4 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
   The creator of [Execute Program](https://www.executeprogram.com/), a very cool learning site. This site also has many sections for learning stuff, the screencasts in particular seem to be very hands on.
 
 - [37Signals](https://37signals.com/)
-  Not exactly the personal site of [@dhh](https://x.com/dhh), but I think the company is cool. Read their manifesto.
+  Not exactly the personal site of [@dhh](https://x.com/dhh), but I think the company is cool. Read their manifesto. Also they produced several cool books and applications.
