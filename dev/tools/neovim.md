@@ -10,6 +10,8 @@
 
 - [dotfyle](https://dotfyle.com/)
 
+- [VimCasts](http://vimcasts.org/)
+
 ## Communities
 
 ### Chat
