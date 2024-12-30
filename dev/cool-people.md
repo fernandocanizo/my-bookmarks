@@ -40,3 +40,6 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 
 - [37Signals](https://37signals.com/)
   Not exactly the personal site of [@dhh](https://x.com/dhh), but I think the company is cool. Read their manifesto. Also they produced several cool books and applications.
+
+- [Bartosz Milewski](https://bartoszmilewski.com/)
+  Author of Category _"Theory for Programmers"_
