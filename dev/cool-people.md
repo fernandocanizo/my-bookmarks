@@ -43,3 +43,6 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 
 - [Bartosz Milewski](https://bartoszmilewski.com/)
   Author of Category _"Theory for Programmers"_
+
+- [Russ Olsen](http://russolsen.com/)
+  Another functional programmer and advocate.
