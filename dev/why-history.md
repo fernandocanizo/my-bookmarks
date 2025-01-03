@@ -58,3 +58,8 @@ The date at the beginning of some links is the date I found them, not the date t
 
 - 2024-10-08 [On Remix default encoding for <Form> and `useEffect`](https://macwright.com/2024/05/28/remix-form-gripes)
   Several arguments against `useEffect`.
+
+- 2025-01-03 [What Color is Your Function?](https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/)
+  An analogy with colors for sync/async functions.
+
+  According to this guy only 3 languages don't have the problem explained: Go, Lua, Ruby. They all use threads instead of async functions.
