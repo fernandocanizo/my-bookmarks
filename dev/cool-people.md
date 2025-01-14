@@ -46,3 +46,6 @@ Here's a bunch of really cool people that can teach you a thing of two. In no pa
 
 - [Russ Olsen](http://russolsen.com/)
   Another functional programmer and advocate.
+
+- [Tom MacWright](https://macwright.com/)
+  A guy with many ideas I share.
