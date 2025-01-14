@@ -63,3 +63,6 @@ The date at the beginning of some links is the date I found them, not the date t
   An analogy with colors for sync/async functions.
 
   According to this guy only 3 languages don't have the problem explained: Go, Lua, Ruby. They all use threads instead of async functions.
+
+- 2025-01-14 [Second-guessing the modern web](https://macwright.com/2020/05/10/spa-fatigue)
+  by Tom MacWright, explaining why React is not the best solution for the majority of the web developments around. BTW, the post is from 2020.
