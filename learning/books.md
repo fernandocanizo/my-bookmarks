@@ -7,6 +7,10 @@
 - [Z Library](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
   Only accessible via tor network.
 
+  **2025-01-15:** probably that link won't work anymore, here are two new:
+  - [Zlib normal](https://z-library.sk/)
+  - [Zlib through Onion](http://bookszlibb74ugqojhzhg2a63w5i2atv5bqarulgczawnbmsb6s6qead.onion/)
+
 - [Annas](https://annas-archive.org/)
   Mirror for Z Library and other sources.
 
