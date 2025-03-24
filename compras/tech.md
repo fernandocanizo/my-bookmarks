@@ -1,5 +1,10 @@
 # Tech
 
+## Compare / Comparison Tools
+
+- [Versus](https://versus.com/en/)
+  A round tool to compare a great deal of stuff you may want to buy.
+
 ## Notebook
 
 - [FrameWork Laptop](https://frame.work/)
