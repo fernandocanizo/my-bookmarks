@@ -54,7 +54,10 @@
 - [Flowbite Icons](https://flowbite.com/icons/)
   Paid resource but has some open-sourced. Provides SVG code.
 
-## Data & Fake data & APIs
+## Images, data, Fake data, APIs
+
+- [Placehold](https://placehold.co/)
+  A simple, fast and free image placeholder service.
 
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
   JSONPlaceholder comes with a set of 6 common resources:
