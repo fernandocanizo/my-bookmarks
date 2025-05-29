@@ -43,6 +43,11 @@ There are component libraries that expose their components in a way that's easy 
 - [Aceternity](https://ui.aceternity.com/)
   A **very** cool component library that doesn't provide basic stuff like others, but cool, elaborated components. Use it to give a touch of _wow!_ to your site.
 
+- [BaseCoat UI](https://basecoatui.com/)
+  All of the shadcn/ui magic, none of the React
+  A components library built with Tailwind CSS that works with any web stack.
+  (a non-tailwind version is coming)
+
 ### Accesible components
 
 - [JollyUI](https://jollyui.dev/)
