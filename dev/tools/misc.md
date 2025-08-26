@@ -10,6 +10,9 @@
 - [CoolText](https://cooltext.com/)
   Pick a style and write your desired text to generate a cool logo.
 
+- [Made In Text](https://madeintext.com/)
+  A nice site to hunt for Unicode symbols.
+
 ## Documentation
 
 - [CodeHike](https://github.com/code-hike/codehike)
