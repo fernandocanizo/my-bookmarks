@@ -14,3 +14,7 @@
 
 - [Duck DNS](https://duckdns.org/)
   To host things at home, with dynamic IPs.
+
+## Untested
+
+- [Sevalla](https://sevalla.com/)
