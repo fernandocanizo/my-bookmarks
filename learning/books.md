@@ -38,4 +38,7 @@
   > ... provides a general guideline on implementing auth in web applications...
   > It may be opinionated or incomplete at times but we hope this fills a certain void in online resources. We recommend using this alongside the [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
 
+## En castellano
+
+- [Biblioteca de la ONG Hacer](https://www.hacer.org/hacer-online-library/)
 
