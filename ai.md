@@ -41,3 +41,7 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
   Wait, now there's a "Try it for free" that leads to a different domain where you can see chats from other people (examples) and I think one can start a new chat too. Gonna try it later.
 
+## Premade instructions
+
+- [Skills](https://skills.sh/)
+  Reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.
