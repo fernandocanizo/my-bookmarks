@@ -14,3 +14,16 @@
 
   But also there's another repo that has more or less the same assets:
   `pnpm i ` [@kaplayjs/crew](https://github.com/kaplayjs/crew/)
+
+## Maps
+
+- [json-map-format](https://doc.mapeditor.org/en/stable/reference/json-map-format/)
+  A standar map format that (I think) some tool named _Tiled_ produces.
+
+  Kaboomjs could import these maps using a plugin:
+  [tiled-kaboom](https://github.com/notnullgames/tiled-kaboom/blob/main/tiled-kaboom.js)
+
+  @dragoncoder047 said (2026-02-12) that it may be easy to port it to Kaplayjs, so there's an idea for collaboration.
+
+  Anyway, map-wise, I don't need any of these things, as Kaplayjs already provides a way to create maps. Maybe the benefit of using that _Tiled_ thingy would be that you create the map with visual tools, instead of editing a text file and reloading the page.
+
