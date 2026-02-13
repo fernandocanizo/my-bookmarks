@@ -1,3 +1,10 @@
+# Non-yet-curated list of links for game assets
+
+I asked on MEGA whatsapp channel about "public domain", "open source", or "creative commons" assets for game development and they flooded me with links. So I'm saving this here for later, probably some are repeated as I'm just copy-pasting their messages.
+
+
+## From Gabbb
+
 https://startgame.dev/
 
 RECURSOS Y TIPS para un prototipado rápido y de buena calidad.
@@ -62,3 +69,18 @@ jsGFwk - https://github.com/matiasiacono/jsGFwk
 Bitsy - http://ledoux.io/bitsy/editor.html 
 Twine https://twinery.org/ 
 RPG Maker - https://www.rpgmakerweb.com/downloads
+
+## From Franco (Rulo) Sorbello
+
+Yo uso:
+- freesound.org para sonido (tenes que checkear la licencia de cada sonido, varios usan cc 4.0 que requiere creditos)
+- https://itch.io/game-assets
+- https://opengameart.org/ (muy bueno pero un par desactualizado, te encontras assets subidos en el 2011 jajajajaj)
+- kenney.nl
+
+Desafortunadamente toca armar excel si usas varios assets porque cada uno usa licencias diferentes
+
+## From Gamanbit
+
+https://gamanbit.com/blog/kit-de-recursos-GGJ
+
