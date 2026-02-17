@@ -44,3 +44,10 @@ Most experimental charm: GemShell
   > Build lightweight cross-platform desktop apps with JavaScript, HTML, and
   > CSS
 
+
+- [NW.js](https://nwjs.io/)
+  Found about this one after meeting the other ones, but this was the first
+  attempt at bringing the web to the desktop. It has serious security flaws,
+  hence Electron was born. So it's of no use today. I'm saving the bookmark just
+  in case I find it again in the future.
+
