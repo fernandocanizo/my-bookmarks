@@ -45,3 +45,11 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
 - [Skills](https://skills.sh/)
   Reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.
+
+## Tools for AI
+
+- [GitIngest](https://gitingest.com/)
+  Turn any Git repository into a simple text digest of its codebase.
+  This is useful for feeding a codebase into any LLM.
+
+  No entendí como usarlo. Le pasás un enlace de github y te da un texto que parece ser el código concatenado y con algunas observaciones, pero no sabría como pasárselo a un LLM.
