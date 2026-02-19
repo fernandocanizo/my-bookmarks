@@ -4,6 +4,11 @@
 
 Take a whirlwind tour of your next favorite language. Community-driven!
 
+## Algorithms
+
+- [Alg0](https://www.alg0.dev/)
+  Hecho por @midudev de YouTube.
+
 ## Development
 
 - [RoadMap](https://roadmap.sh/)
