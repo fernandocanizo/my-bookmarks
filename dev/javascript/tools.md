@@ -19,12 +19,20 @@
 - [npmjs](https://www.npmjs.com/)
 - [npms](https://npms.io/)
 - [jsr](https://jsr.io/)
+- [npmx](https://npmx.dev/)
 
-### To help decide which package
+## Analisis and search
 
 Not registries, but may help decide for a package when the other quality variables are even.
 
-- [npm trends](https://npmtrends.com/)
+- [npmignore](https://npmignore.com/)
+  Search engine for npm but on steroids, ignoring the mess of npm.
+
+- [npm Trends](https://npmtrends.com/)
+  Compare libraries.
+
+- [Rising Stars](https://risingstars.js.org/)
+  Analysis of frameworks and libraries throughout the year.
 
 - [npm compare](https://npm-compare.com/)
 
