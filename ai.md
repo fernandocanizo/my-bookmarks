@@ -46,6 +46,8 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 - [Skills](https://skills.sh/)
   Reusable capabilities for AI agents. Install them with a single command to enhance your agents with access to procedural knowledge.
 
+  I found that it promises too much or mislead you with the names of the skills, for example, `frontend-code-review` is a joke. Better use Anthropic resources which are much more accurate, and even define which model to use, using tiny ones for simpler tasks, thus reducing costs.
+
 ## Tools for AI
 
 - [GitIngest](https://gitingest.com/)
