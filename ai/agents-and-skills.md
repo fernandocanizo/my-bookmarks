@@ -7,4 +7,9 @@
 
 ## Skills
 
+- [AgentSkills](https://agentskills.io/)
+  This is the place where the standard for skills is defined. Read it! There's
+  much more than just the skill definition on the main markdown file. You can
+  also include scripts and other stuff.
+
 - [Anthropic Skills](https://github.com/anthropics/skills)
