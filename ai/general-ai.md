@@ -26,11 +26,6 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
 ## General chat AI
 
-- [Gemini](https://gemini.google.com/)
-  Ex Bard
-
-- [ChatGPT](https://chat.openai.com/)
-
 - [Aria](https://www.opera.com/features/aria)
   There's no link (I haven't looked for it thoroughfully) to use Aria from the web, it comes integrated with Opera Browser.
 
