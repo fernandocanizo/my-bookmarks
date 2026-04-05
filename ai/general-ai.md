@@ -36,15 +36,6 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
   Wait, now there's a "Try it for free" that leads to a different domain where you can see chats from other people (examples) and I think one can start a new chat too. Gonna try it later.
 
-## Proxies
-
-Here put sites that let you pay a subscription and give you access to other models.
-
-- [LLMBase](https://llmbase.ai/)
-  Claims to give you access for less than the original site, like, you can get
-  access to Opus from Claude at USD $10, and avoid paying $20 to Claude. I don't
-  know how it works, but at least that's the claim in their page.
-
 ## Premade instructions
 
 - [Skills](https://skills.sh/)

@@ -19,3 +19,15 @@ Let's order the stuff, cause now everyone and their cat has an AI model. So let'
 | Anthropic | Claude Opus 4.6 | [Claude](https://claude.ai/)          |
 | Google    | Gemini 3.1 Pro  | [Gemini](https://gemini.google.com/)     |
 | xAI       | Grok 4.1        | [Grok](https://grok.com/)                |
+
+
+## Proxies / Proxy (another keyword for when I grep)
+
+Here put sites that let you pay a subscription and give you access to other models.
+
+- [LLMBase](https://llmbase.ai/)
+  Claims to give you access for less than the original site, like, you can get
+  access to Opus from Claude at USD $10, and avoid paying $20 to Claude. I don't
+  know how it works, but at least that's the claim in their page.
+
+- [OpenRouter](https://openrouter.ai/)
