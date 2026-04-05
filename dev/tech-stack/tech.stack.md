@@ -99,6 +99,14 @@ style rules disabled.
 - [ElectricSQL](https://electric-sql.com/)
   Both local first database that automatically synchronize to a Postgresql on the cloud.
 
+- [Turso](https://turso.tech/)
+  Databases Everywhere.
+
+  Turso is the lightweight database that scales to millions of instances. Build
+  agents, AI assistants, and intelligent apps by deploying databases
+  everywhere: on servers, browsers, and devices, just like files. Turso is a
+  complete SQLite drop-in replacement, built for the agentic future.
+
 ## Frontend
 
 - [*Choo*](https://www.choo.io/)
