@@ -5,6 +5,9 @@
 - [Awesome Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)
   by @VoltAgent
 
+- [Agency Agents](https://github.com/msitarzewski/agency-agents/)
+  A huge collection of agents for whatever need you may have.
+
 ## Skills
 
 - [AgentSkills](https://agentskills.io/)
