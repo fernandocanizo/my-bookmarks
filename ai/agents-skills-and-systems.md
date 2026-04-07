@@ -16,3 +16,11 @@
   also include scripts and other stuff.
 
 - [Anthropic Skills](https://github.com/anthropics/skills)
+
+## Systems
+
+Complete systems that make a bunch of agents and a bunch of skills work together. _Oh-my-opencode_ is one of those, but I linked it under the _OpenCode_ section as it's specific.
+
+But the ones here should work with more than one harness.
+
+- [AI Gentle Stack](https://github.com/Gentleman-Programming/gentle-ai)
