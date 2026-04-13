@@ -27,3 +27,6 @@ to develop, except for internal commands.
   But keep an eye on this project, has some pretty cool features.
 
 - [pi-subagents](https://github.com/nicobailon/pi-subagents)
+
+- [pi-dots](https://github.com/VenTheZone/pi-dots)
+  Claims to be "all the skills you will ever need". It's software development oriented, mostly, and I'm not using Pi that way, so I don't want to contaminate it. But the repository is pretty cool, so let's save it.
