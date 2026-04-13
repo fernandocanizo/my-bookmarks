@@ -25,3 +25,5 @@ interest currently is using Pi as my personal assistant, so I don't use it much
 to develop, except for internal commands.
 
   But keep an eye on this project, has some pretty cool features.
+
+- [pi-subagents](https://github.com/nicobailon/pi-subagents)
