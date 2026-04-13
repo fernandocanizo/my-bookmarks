@@ -15,3 +15,6 @@ Can explain its own features and loop up its docs.
 
 - [pi-pane](https://github.com/visua1hue/pi-pane)
   Adds a nicer input box TUI.
+
+- [pi-tool-display](https://github.com/MasuRii/pi-tool-display)
+  Compacts Pi output.
