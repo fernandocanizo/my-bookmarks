@@ -10,3 +10,8 @@ Can explain its own features and loop up its docs.
   Has the exact same content as shittycodingagent.ai, I don't know why don't they redirect.
 
 - [Extensions, skills, etc. Pi-related](https://pi.dev/packages)
+
+## Extensions
+
+- [pi-pane](https://github.com/visua1hue/pi-pane)
+  Adds a nicer input box TUI.
