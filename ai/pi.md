@@ -42,3 +42,5 @@ Can explain its own features and loop up its docs.
   Looks just like what I need for mmm, but right now I don't have time to make
   a Tailscale account and connect all the stuff. So, try it later.
 
+- [pi-token-burden](https://github.com/Whamp/pi-token-burden)
+  Visualize consumed context by default stuff.
