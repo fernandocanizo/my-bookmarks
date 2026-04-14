@@ -44,3 +44,8 @@ Can explain its own features and loop up its docs.
 
 - [pi-token-burden](https://github.com/Whamp/pi-token-burden)
   Visualize consumed context by default stuff.
+
+- [dreki pi-extensions](https://github.com/dreki-gg/pi-extensions)
+  A monorepo with several extensions, I only added `@dreki-gg/pi-context7` and
+  `@dreki-gg/pi-lsp`.
+
