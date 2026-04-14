@@ -38,3 +38,7 @@ Can explain its own features and loop up its docs.
   later, but after doing a deep analysis, talking with mmm, so I'm adding the
   link for future reference, but won't install it right now.
 
+- [pi-phone](https://github.com/MaliNamNam/pi-phone)
+  Looks just like what I need for mmm, but right now I don't have time to make
+  a Tailscale account and connect all the stuff. So, try it later.
+
