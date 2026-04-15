@@ -15,3 +15,9 @@ parece baratito
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus)
   Makes a graph of a repository and that can improve the AI understanding of the
   project.
+
+## 2026-04-15
+
+- [AirLLM](https://github.com/lyogavin/airllm)
+
+  Claims to be better than quantization. That you can run a 70B LLM in a GPU with just 4GB, and a 405B Llama3.1 in one with just 8GB.
