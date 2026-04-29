@@ -50,3 +50,9 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
   This is useful for feeding a codebase into any LLM.
 
   No entendí como usarlo. Le pasás un enlace de github y te da un texto que parece ser el código concatenado y con algunas observaciones, pero no sabría como pasárselo a un LLM.
+
+## Application design
+
+Not sure how to call this category or where to put it, but this is basically for SDD (Spec Driven Development) right now.
+
+- [OpenSpec](https://openspec.dev/)
