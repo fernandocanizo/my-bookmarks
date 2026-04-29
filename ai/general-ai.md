@@ -24,6 +24,9 @@ Generate React code with AI. I guess it's a tunned AI, so it's worth a try.
 
 An open-source OCR model that accurately scans books with heavy math/scientific notations. Ages ahead of other open OCR options.
 
+- [HyperFrames](https://github.com/heygen-com/hyperframes)
+  Write HTML. Render video. Built for agents.
+
 ## General chat AI
 
 - [Aria](https://www.opera.com/features/aria)
