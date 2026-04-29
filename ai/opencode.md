@@ -17,3 +17,7 @@
 
 - [AFT](https://github.com/cortexkit/aft)
   Let AIs use AST instead of reading code files as text. Duh!
+
+- [TokenScope](https://github.com/ramtinJ95/opencode-tokenscope)
+  Comprehensive token usage analysis and cost tracking for opencode sessions.
+
