@@ -24,3 +24,8 @@ Complete systems that make a bunch of agents and a bunch of skills work together
 But the ones here should work with more than one harness.
 
 - [AI Gentle Stack](https://github.com/Gentleman-Programming/gentle-ai)
+
+- [ForgeGod](https://forgegod.com/)
+  **Untested**
+  Very similar to gentle-ai, has memory, agents. This is from the author of LLMs dark patterns.
+
