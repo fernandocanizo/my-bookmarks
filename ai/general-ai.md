@@ -39,6 +39,9 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
   Wait, now there's a "Try it for free" that leads to a different domain where you can see chats from other people (examples) and I think one can start a new chat too. Gonna try it later.
 
+- [Arena](https://arena.ai/)
+  Allows you to compare two models reply, head-to-head, for the same prompt. Also has a "battle" mode, that I don't know what it does.
+
 ## Premade instructions
 
 - [Skills](https://skills.sh/)
