@@ -62,3 +62,8 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 Not sure how to call this category or where to put it, but this is basically for SDD (Spec Driven Development) right now.
 
 - [OpenSpec](https://openspec.dev/)
+
+## Compare
+
+- [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
+  Compares models.
