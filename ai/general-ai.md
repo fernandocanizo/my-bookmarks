@@ -57,6 +57,9 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
   No entendí como usarlo. Le pasás un enlace de github y te da un texto que parece ser el código concatenado y con algunas observaciones, pero no sabría como pasárselo a un LLM.
 
+- [RTK](https://github.com/rtk-ai/rtk)
+  CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+
 ## Application design
 
 Not sure how to call this category or where to put it, but this is basically for SDD (Spec Driven Development) right now.
