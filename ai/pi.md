@@ -136,3 +136,12 @@ repo later to search for documentation or whatever.
   oriented, mostly, and I'm not using Pi that way, so I don't want to contaminate
   it. But the repository is pretty cool, so let's save it.
 
+- [pi-agent-dashboard](https://github.com/BlackBeltTechnology/pi-agent-dashboard)
+  Real-time web dashboard for pi coding-agent sessions. Multi-session view,
+  live chat mirroring, integrated terminal, diff viewer, pi-flows execution,
+  and mobile-first remote control via mDNS or zrok tunnel. Coexists with pi's
+  TUI, doesn't replace it.
+
+  Works in the browser and can controll an army of Pi agents doing stuff.
+
+  I currently don't have an use case for this, but keep it at hand.
