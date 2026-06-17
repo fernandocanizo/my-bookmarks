@@ -49,3 +49,6 @@ Can explain its own features and loop up its docs.
   A monorepo with several extensions, I only added `@dreki-gg/pi-context7` and
   `@dreki-gg/pi-lsp`.
 
+- [pi-hermes-memory](https://github.com/chandra447/pi-hermes-memory)
+  Hermes-style persistent memory and learning loop for Pi coding agent.
+
