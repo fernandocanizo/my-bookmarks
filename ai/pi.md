@@ -21,12 +21,6 @@ repo later to search for documentation or whatever.
   ```
   pi install git:github.com/nicobailon/pi-web-access
   ```
-- [pi-pane](https://github.com/visua1hue/pi-pane)
-  Adds a nicer input box TUI.
-  ```
-  pi install git:github.com/visua1hue/pi-pane
-  ```
-
 - [pi-tool-display](https://github.com/MasuRii/pi-tool-display)
   Compacts Pi output.
   ```
@@ -145,3 +139,17 @@ repo later to search for documentation or whatever.
   Works in the browser and can controll an army of Pi agents doing stuff.
 
   I currently don't have an use case for this, but keep it at hand.
+
+## Extensions dropped and why
+
+- [pi-pane](https://github.com/visua1hue/pi-pane)
+  Adds a nicer input box TUI.
+  ```
+  pi install git:github.com/visua1hue/pi-pane
+  ```
+  **2026-06-17:** removed, it conflicts with `pi-tool-display` and that one
+  already provides what pi-pane provides plus many other things, including a
+  good diffing tool. When both are installed Pi crashes, cause they both modify
+  TUI size, but they don't account for each other.
+
+
