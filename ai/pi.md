@@ -13,6 +13,10 @@ Can explain its own features and loop up its docs.
 
 ## Extensions
 
+- [pi-web-access](https://github.com/nicobailon/pi-web-access)
+  ```
+  pi install npm:pi-web-access
+  ```
 - [pi-pane](https://github.com/visua1hue/pi-pane)
   Adds a nicer input box TUI.
 
