@@ -99,6 +99,10 @@ repo later to search for documentation or whatever.
   extensions I use to use in Borrow machine, into Cygnus so I have the same
   setup. **LOOK INTO THIS LATER**
 
+- [pi-archimedes](https://github.com/danielcherubini/pi-archimedes)
+ **2026-06-17:**  
+  Another mono-repo with several extensions that work cohesively. I'm interested in the good diff with colors. But I think it would pay to run a version of pi with just this set of extensions. I think pi parameters allow for that, so I could have a test run without my other installed extensions getting in the way. Try that idea.
+
 ## Other extensions that look interesting
 
 - [pi-phone](https://github.com/MaliNamNam/pi-phone)
