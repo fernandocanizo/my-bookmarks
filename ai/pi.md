@@ -152,4 +152,11 @@ repo later to search for documentation or whatever.
   good diffing tool. When both are installed Pi crashes, cause they both modify
   TUI size, but they don't account for each other.
 
+- [pi-telegram-plus](https://github.com/jalyfeng/pi-telegram-plus)
+  It stablishes a two way connection with a running Pi session, meaning if you are in your laptop, chatting in that session, you'll receive all the in-between message from Pi thinking and all that shit.
+
+  I wanted to be able to send a message from Telegram, reach the running session of Pi, and run a command or a prompt. I don't want my notebook session to send shit to Telegram.
+
+- [telepi](https://github.com/benedict2310/TelePi)
+  This one gave a bunch of npm deprecations, looks like it used ancient package, probably unmaintained. And then I followed the instructions to connect it and nothing happened. So ditched.
 
