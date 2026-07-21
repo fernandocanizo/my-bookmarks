@@ -27,6 +27,10 @@
 - [TokenScope](https://github.com/ramtinJ95/opencode-tokenscope)
   Comprehensive token usage analysis and cost tracking for opencode sessions.
 
+- [Model Advisor](https://github.com/AlonsoSG0/model-advisor-mcp/)
+  Not a plugin yet, but you can use it with OpenCode. It's an MCP based on the
+  Gentle guide for models. It gets the available models and ranks them for
+  price and reasoning level and then assign them to different tasks.
 
 ## Tried and dropped
 
