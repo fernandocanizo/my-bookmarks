@@ -70,3 +70,7 @@ Not sure how to call this category or where to put it, but this is basically for
 
 - [Artificial Analysis](https://artificialanalysis.ai/leaderboards/models)
   Compares models.
+
+## Free models
+
+- [Awesome Free LLM APIs](https://github.com/mnfst/awesome-free-llm-apis/)
