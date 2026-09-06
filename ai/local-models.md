@@ -29,6 +29,12 @@ Links of tools to download and run local models.
 - [LM Studio](https://lmstudio.ai/)
   Same as Ollama: it easis the management and running of local models.
 
+- [Magnitude site](https://magnitude.dev/)
+- [Magnitude repo](https://github.com/magnitudedev/magnitude)
+  Open source inference server that runs the best local models for your
+  hardware, plugged into the agent you already use. Works with Pi, OpenCode,
+  Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.
+
 ## Models
 
 - [HuggingFace](https://huggingface.co/)
