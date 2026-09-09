@@ -160,3 +160,9 @@ repo later to search for documentation or whatever.
 - [telepi](https://github.com/benedict2310/TelePi)
   This one gave a bunch of npm deprecations, looks like it used ancient package, probably unmaintained. And then I followed the instructions to connect it and nothing happened. So ditched.
 
+- [pi-studio](https://github.com/omaclaren/pi-studio)
+  **2026-09-09:** tried it and it blew up after the first question I made, so
+  not much of a proper try there, but I won't be wasting time on an extension
+  that claims to be golden with lots of features and the first thing that does
+  is crash.
+
