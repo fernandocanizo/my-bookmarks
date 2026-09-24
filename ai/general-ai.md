@@ -60,6 +60,18 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 - [RTK](https://github.com/rtk-ai/rtk)
   CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
+- [CodeGraph](https://github.com/colbymchenry/codegraph)
+  Pre-indexed code knowledge graph, auto syncs on code changes, for Claude
+  Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes
+  Agent — fewer tokens, fewer tool calls, 100% local.
+
+  This is the one selected by gentle-ai and can be installed with it, under Community Tools/Plugins.
+
+- [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
+  An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
+
+  Looks the same as CodeGraph, haven't tested it.
+
 ## Application design
 
 Not sure how to call this category or where to put it, but this is basically for SDD (Spec Driven Development) right now.
