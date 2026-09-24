@@ -67,10 +67,17 @@ An open-source OCR model that accurately scans books with heavy math/scientific 
 
   This is the one selected by gentle-ai and can be installed with it, under Community Tools/Plugins.
 
+  **This is better for agents.**
+
 - [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext)
   An MCP server plus a CLI tool that indexes local code into a graph database to provide context to AI assistants.
 
   Looks the same as CodeGraph, haven't tested it.
+
+  **This is better for manual exploration, although it supports agents. Choose CodeGraph always.**
+  Just did the analysis and CGC is not worth my attention, but keeping it here,
+  because I probably will find it again in the future and ask myself the same
+  question again.
 
 ## Application design
 
