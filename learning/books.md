@@ -42,3 +42,12 @@
 
 - [Biblioteca de la ONG Hacer](https://www.hacer.org/hacer-online-library/)
 
+## Libraries
+
+They work with the concept of "borrowing" digital books. A stupid concept, but there are books there.
+
+- [OpenLibrary](https://openlibrary.org/)
+  Cuando tomás "prestado" un libro, te lleva al [Internet
+  Archive](https://archive.org/), con una interfaz donde podés leer el libro,
+  pero no bajarlo.
+
