@@ -9,10 +9,6 @@
 
   - 2026-04-05 just installed it today. Haven't done anything with it yet.
 
-- [mixgram](https://github.com/clasen/Mixgram)
-  An Engram clone that keeps a Markdown source of thruth besides the SQLite database. I liked this one, so I'm testing it
-
-
 ## Interesting plugins
 
 - [OpenCode Magic Context](https://github.com/cortexkit/opencode-magic-context)
@@ -47,6 +43,8 @@ Then I asked for local stuff, non paid subscription, and these three contenders 
 
 - [mixgram](https://github.com/clasen/Mixgram)
   An Engram clone that keeps a Markdown source of thruth besides the SQLite database. I liked this one, so I'm testing it
+  
+  **2026-10-16:** it never worked, uninstalling it.
 
 - [mcp-memory-graph](https://github.com/YonasValentin/mcp-memory-graph)
   Is the same as every other, I prefer to go the route of Markdown source of truth.
