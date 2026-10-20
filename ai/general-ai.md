@@ -2,6 +2,13 @@
 
 Artificial Intelligence links and observations.
 
+- [Models.dev](https://models.dev/)
+  a comprehensive open-source database of AI model specifications, pricing, and features.
+
+  Models, providers, authors (labs).
+
+  Has JSON end-points for all the data, so it may be used to investigate best prices.
+
 - [Rows](https://rows.com/)
 
 2023-06-22
